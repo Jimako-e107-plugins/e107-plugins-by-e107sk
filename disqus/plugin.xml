@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Plugin name="Disqus" lan="LAN_DISQUS_PLUGIN_NAME" version="1.0" date="2020-07-27" compatibility="2.0" installRequired="true" >
+	<author name="Jimako" url="https://www.e107sk.com/" />
+	<summary lan="">The simple Plugin for adding disqus comment system to e107 site</summary>
+	<description lan="">The simple Plugin for adding disqus comment system to e107 site</description>
+	<keywords>
+		<word>information</word>
+		<word>disqus</word>
+		<word>comments</word>
+	</keywords>
+	<category>manage</category>
+	<copyright>e107sk.com</copyright>
+	<adminLinks>
+		<link url="admin_config.php" description="" icon="images/icon_64.png" iconSmall="images/icon_32.png" icon128="images/icon_128.png" primary="true" >LAN_CONFIGURE</link>
+	</adminLinks>
+	<pluginPrefs>
+		<pref name="forum_shortname"></pref>
+		<pref name="active">0</pref>
+		<pref name="activate_counts">0</pref>
+	</pluginPrefs>	
+</e107Plugin>

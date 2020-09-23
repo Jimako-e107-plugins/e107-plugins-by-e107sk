@@ -7,7 +7,7 @@ e107 one time plugins
 
 This is updated version of Birthday menu plugin by Father Barry for e107 v2 version [Description: A Simple configurable birthday menu. Uses e107 extended field for birthday. Can also send an email or PM to users on their birthday.]
 
-Development supported by http://www.outlawsracing.com/ 
+Development supported by wrxxy http://www.outlawsracing.com/ 
 
 
 ## clanforum 
@@ -36,6 +36,17 @@ Updated and fixed for e107 2.2 and PHP 7
 
 Development supported by https://tg-esport.dk/
 
+## jm_jplayer
+### e107 jPlayer plugin (jPlayer jQuery plugin)
+
+e107 version of a WordPress Wolf plugin based on the jPlayer jQuery.
+
+Tested with e107 2.2 and PHP 5.6
+
+Development supported by https://hpkizi.sk/
+
+
+
 
 ## lgsl
 ###   Live Game Server List v5.7  by Richard Perry 
@@ -45,5 +56,30 @@ See the screenshot below to see an example setup.
 
 Author credit: Richard Perry
 
+LGSL itself updated: https://github.com/tltneon/lgsl
+
 Development supported by Allan [Asger] https://wastedgoats.com/
+
+## onlineinfo
+### Online advanced info menu by TheMadMonk
+
+Tested with e107 2.2 and PHP 5.6
+
+Development supported by wrxxy http://www.outlawsracing.com/ 
+
+## teammembers
+### Team Members plugin for e107
+
+The plugin for company team members. Originally for real estate agents. 
+
+Warning!  This is only backup or prelease for inspiration.
+
+## testimonials
+### Testimonials plugin for e107
+
+Full credit for this plugin belongs to lonalore. But his version is focused on users, I needed something for clients. 
+
+In progress.
+
+Original source: https://github.com/lonalore/testimonials
 

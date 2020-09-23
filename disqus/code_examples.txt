@@ -1,0 +1,25 @@
+// display both counts in magazine theme
+
+<div class="news-info-bottom">{NEWSCOMMENTCOUNT: glyph=x} +{NEWS_COMMENT_COUNT: glyph=x}</div>
+
+// and in theme shortcodes
+
+	/**
+	 * {NEWS_COMMENT_COUNT: glyph=x}
+	 */
+	function sc_news_comment_count($parm=null)
+	{
+        $sc = e107::getScBatch('news');
+        $data = $sc->getScVar('news_item');
+        
+        if($data['news_allow_comments']) {  
+          return null;
+        }
+        
+        $discuss_comments = '{DISQUS_NEWSCOMMENTCOUNT}';
+        $discuss_comments = e107::getParser()->parseTemplate($discuss_comments);
+		$text = varset($parm['glyph']) ? e107::getParser()->toGlyph($parm['glyph']) : "";
+		$text .=  $discuss_comments;
+		return $text;
+	}
+
