@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Plugin name="Clan Forum" lan="LAN_FORUM_INSTALL_01" version="2.3.4" date="2019-09-19" compatibility="2.2.0" installRequired="true" >
+	<author name="Jimako" url="https://www.e107sk.com/" />
+	<summary lan="LAN_FORUM_INSTALL_02">This plugin is a fully featured Forum system.</summary>
+	<description lan="LAN_FORUM_INSTALL_02">This plugin is a fully featured Forum system.</description>
+	<keywords>
+		<word>forum</word>
+		<word>legacy</word>
+	</keywords>
+	<category>content</category>
+	<copyright>GPL</copyright>
+	<siteLinks>
+		<link url="{e_PLUGIN}clanforum/forum.php" perm='everyone' lan=''>Legacy Forum</link>
+	</siteLinks>
+	<adminLinks>
+		<link url="forum_admin.php" description="" icon="/images/forums_32.png" iconSmall="/images/forums_16.png" icon128="/images/logo.png" primary="true" >LAN_FORUM_INSTALL_03</link>
+	</adminLinks>
+	<pluginPrefs>
+		<pref name='forum_poll'>0</pref>
+		<pref name='forum_track'>0</pref>
+		<pref name='forum_title'>LAN_FORUM_INSTALL_01</pref>
+		<pref name='forum_eprefix'>LAN_FORUM_INSTALL_06</pref>
+		<pref name='forum_postfix'>LAN_FORUM_INSTALL_07</pref>
+		<pref name='forum_enclose'>1</pref>
+		<pref name='forum_popular'>10</pref>
+		<pref name='forum_postspage'>10</pref>
+		<pref name='forum_show_topics'>1</pref>
+		<pref name='forum_hilightsticky'>1</pref>
+		<pref name='email_notify'>1</pref>   
+		<pref name='email_notify_on'>1</pref>      
+		<pref name='html_post'>1</pref>      
+		<pref name='forum_attach'>0</pref> 
+		<pref name='forum_redirect'>0</pref> 
+		<pref name='forum_user_customtitle'>0</pref> 
+		<pref name='reported_post_email'>0</pref>  
+		<pref name='forum_tooltip'></pref> 
+		<pref name='forum_tiplength'></pref>
+		<pref name='forum_hilightsticky'></pref> 
+		<pref name='forum_maxwidth'></pref>  
+		<pref name='forum_linkimg'></pref>   
+		<pref name='forum_posts_sig'></pref>
+		<pref name='forum_class_sig'></pref>    
+	</pluginPrefs>
+</e107Plugin>

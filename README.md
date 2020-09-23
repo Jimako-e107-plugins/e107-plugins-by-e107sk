@@ -1,12 +1,16 @@
 # e107-plugins-by-e107sk
 e107 one time plugins  
 
-## clanwars
-###  Clan Wars by udesigns
+## clanforum 
+### Forum plugin from version 1.0.4
 
 Updated and fixed for e107 2.2 and PHP 7
 
-Development supported by https://tg-esport.dk/ 
+This plugin is used for backup (archive) of old forums from version 1 to avoid update process and have fresh start with new version.
+
+Don't use it as active forum plugin. 
+
+If you dislike "clanforum" folder name, change it and fix defines and setup files. 
 
 
 ## clanmembers 
@@ -15,6 +19,13 @@ Development supported by https://tg-esport.dk/
 Updated and fixed for e107 2.2 and PHP 7
 
 Development supported by https://tg-esport.dk/ 
+
+## clanwars
+###  Clan Wars by udesigns
+
+Updated and fixed for e107 2.2 and PHP 7
+
+Development supported by https://tg-esport.dk/
 
 
 ## lgsl
