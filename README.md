@@ -1,6 +1,15 @@
 # e107-plugins-by-e107sk
 e107 one time plugins  
 
+
+
+## Birthday plugin for e107
+
+This is updated version of Birthday menu plugin by Father Barry for e107 v2 version [Description: A Simple configurable birthday menu. Uses e107 extended field for birthday. Can also send an email or PM to users on their birthday.]
+
+Development supported by http://www.outlawsracing.com/ 
+
+
 ## clanforum 
 ### Forum plugin from version 1.0.4
 
