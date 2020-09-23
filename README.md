@@ -36,13 +36,6 @@ Updated and fixed for e107 2.2 and PHP 7
 
 Development supported by https://tg-esport.dk/
 
-
-##   disqus
-###  Disqus comment system for e107
-
-This is prerelease for easier testing.
-
-
 ## jm_jplayer
 ### e107 jPlayer plugin (jPlayer jQuery plugin)
 
