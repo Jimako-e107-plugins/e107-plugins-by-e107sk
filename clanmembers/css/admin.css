@@ -1,0 +1,23 @@
+.nowrap {
+white-space: nowrap;
+}
+
+body  { padding-top: 75px; font-size: 12px;  }
+
+.jm-collapse{
+	cursor:pointer;
+}
+
+.jm-expand{
+	display:none;
+	cursor:pointer;
+}
+
+.tableleft{
+	margin: 5px;
+	float: left;
+}
+
+		#general{
+			text-align: left;
+		}

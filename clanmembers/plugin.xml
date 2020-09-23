@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Plugin name="Clan Members" lan="LAN_CLANMEMBERS" version="2.1.0" date="2019-02-19" compatibility="2.1" installRequired="true" >
+	<author name="Untergang" url="http://www.udesigns.be" />
+	<summary lan="">This plugin shows the members of your clan per game team</summary>
+	<description lan="">This plugin shows the members of your clan per game/team</description>
+	<keywords>
+		<word>gaming</word>
+		<word>clan</word>
+		<word>team</word>
+	</keywords>
+	<category>content</category>
+	<copyright>e107</copyright>
+	<adminLinks>
+		<link url="admin_old.php" description="LAN_CONFIGURE" icon="images/clanmembers_32.png" iconSmall="images/clanmembers_16.png"  primary="true" >LAN_CONFIGURE</link>
+	</adminLinks>
+	<siteLinks>
+		<link url="{e_PLUGIN}clanmembers/clanmembers.php" >Clan Members</link>
+	</siteLinks>
+</e107Plugin>

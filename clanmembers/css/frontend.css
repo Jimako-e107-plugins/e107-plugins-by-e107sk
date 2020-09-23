@@ -1,0 +1,17 @@
+.nowrap {
+white-space: nowrap;
+}
+
+img.absmiddle {
+ vertical-align: middle;
+ vertical-align: -webkit-baseline-middle;
+}
+
+.border-0 {
+  border: 0;
+} 
+
+.width-50 {
+ width: 50%;
+}
+
