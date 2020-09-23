@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Plugin name="Clan Wars" lan="LAN_CLANWARS" version="2.2.0" date="2019-09-07" compatibility="2.2" installRequired="true" >
+	<author name="Untergang" url="http://www.udesigns.be" />
+	<summary lan="">This is a plugin for keeping track of your wars matches </summary>
+	<description lan="">This is a plugin for keeping track of your wars/matches that your have played or are about to play</description>
+	<keywords>
+		<word>gaming</word>
+		<word>clan</word>
+		<word>team</word>
+	</keywords>
+	<category>content</category>
+	<copyright>GPL</copyright>
+	<adminLinks>
+		<link url="admin_old.php" description="" icon="images/clanwars_32.png" iconSmall="images/clanwars_16.png" icon128="" primary="true" >LAN_CONFIGURE</link>
+	</adminLinks>
+	<siteLinks>
+		<link url="{e_PLUGIN}clanwars/clanwars.php" >Clan Wars</link>
+	</siteLinks>
+</e107Plugin>                                              

@@ -1,0 +1,63 @@
+.nowrap {
+white-space: nowrap;
+}
+
+img.absmiddle {
+ vertical-align: middle;
+ vertical-align: -webkit-baseline-middle;
+}
+
+.border-0 {
+  border: 0;
+} 
+
+.width-50 {
+ width: 50%;
+}
+
+div.filterops{
+	display:none;
+/*	position:absolute;  */
+  margin: auto;
+	right:-3px;
+	top:-3px;
+	z-index:100;
+	padding:5px;
+  max-width: 500px;
+
+}
+
+div.filterops form {
+   text-align: left;
+   
+} 
+
+div.warfilters .form-control {
+  width: initial;
+  display: inline;
+}
+
+
+div.filterops { 
+    background: #333333;     
+    border-top: 1px solid #444444;
+}
+
+div.filterops td { 
+padding:0px 10px 5px 0px;
+}
+
+.iconpointer{
+	cursor:pointer;
+}
+#warstable td{
+	text-align: center;
+}
+
+div.mainwrap{
+	width:100%-8px;
+	display:block;
+	margin-bottom:1px;
+	text-align:left;
+}
+ 
