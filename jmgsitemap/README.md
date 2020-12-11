@@ -29,5 +29,23 @@ e107 stuff is released under GPL licence.
 
 Many thanks to e107 for great CMS.
 
+## What is inside?
+
+Admin UI for sitemap entries:
+
+![img](https://www.e107sk.com/media/img/0x0/2019-08/jmgsitemap_01.jpg)
+
+More instructions about HTML sitemap:
+
+![img](https://www.e107sk.com/media/img/0x0/2019-08/jmgsitemap_03.jpg)
+
+Variable labels for HTML sitemap categories:
+
+![img](https://www.e107sk.com/media/img/0x0/2019-08/jmgsitemap_04.jpg)
+
+![img](https://www.e107sk.com/media/img/0x0/2019-08/jmgsitemap_02.jpg)
+
+ 
+ 
 
  
