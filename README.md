@@ -46,6 +46,11 @@ Tested with e107 2.2 and PHP 5.6
 Development supported by https://hpkizi.sk/
 
 
+## JM Gsitemap plugin for e107
+
+This plugin is not a replacement of core plugin; no core changes are needed.
+
+Just backup, after e107 2.3.0 is outdated
 
 
 ## lgsl
