@@ -10,6 +10,11 @@ This is updated version of Birthday menu plugin by Father Barry for e107 v2 vers
 Development supported by wrxxy http://www.outlawsracing.com/ 
 
 
+## Calendar menu plugin for e107
+
+Full credit for this plugin belongs to e107 core developers.
+
+
 ## clanforum 
 ### Forum plugin from version 1.0.4
 
@@ -65,6 +70,10 @@ LGSL itself updated: https://github.com/tltneon/lgsl
 
 Development supported by Allan [Asger] https://wastedgoats.com/
 
+## Smartsuup plugin for e107
+
+Smartsupp Live Chat integration plugin for e107 v2 Boostrap CMS
+
 ## onlineinfo
 ### Online advanced info menu by TheMadMonk
 
@@ -87,4 +96,11 @@ Full credit for this plugin belongs to lonalore. But his version is focused on u
 In progress.
 
 Original source: https://github.com/lonalore/testimonials
+
+
+## Yandex metrica plugin for e107
+
+The plugin for the using Yandex Metrica on your e107 site
+
+![img](https://www.e107sk.com/img/yandex_metrica_for_e107.png)
 
