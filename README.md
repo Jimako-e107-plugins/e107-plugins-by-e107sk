@@ -1,11 +1,6 @@
 # e107-plugins-by-e107sk
 e107 one time plugins  
-
-
-## User Language Menu 2.2 
-- renamed as User Language Plugin and moved to 
-https://github.com/Jimako-e107-plugins/userlanguage_flags
-
+ 
 
 ## Birthday plugin for e107
 
