@@ -13,11 +13,7 @@ This is updated version of Birthday menu plugin by Father Barry for e107 v2 vers
 
 Development supported by wrxxy http://www.outlawsracing.com/ 
 
-
-## Calendar menu plugin for e107
-
-Full credit for this plugin belongs to e107 core developers.
-
+ 
 
 ## clanforum 
 ### Forum plugin from version 1.0.4
@@ -44,24 +40,9 @@ Development supported by https://tg-esport.dk/
 Updated and fixed for e107 2.2 and PHP 7
 
 Development supported by https://tg-esport.dk/
+ 
 
-## jm_jplayer
-### e107 jPlayer plugin (jPlayer jQuery plugin)
-
-e107 version of a WordPress Wolf plugin based on the jPlayer jQuery.
-
-Tested with e107 2.2 and PHP 5.6
-
-Development supported by https://hpkizi.sk/
-
-
-## JM Gsitemap plugin for e107
-
-This plugin is not a replacement of core plugin; no core changes are needed.
-
-Just backup, after e107 2.3.0 is outdated
-
-
+ 
 ## lgsl
 ###   Live Game Server List v5.7  by Richard Perry 
 
