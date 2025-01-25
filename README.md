@@ -1,5 +1,28 @@
 # e107-plugins-by-e107sk
-e107 one time plugins  
+e107 one time plugins or maybe not
+
+
+## Smartsuup plugin for e107
+
+Smartsupp Live Chat integration plugin for e107 v2 Boostrap CMS
+
+Moved here: https://github.com/Jimako-e107-plugins/smartsupp
+
+
+## lgsl
+###   Live Game Server List v5.7  by Richard Perry 
+
+Description: LGSL shows live game server info on your website.
+See the screenshot below to see an example setup.
+
+Author credit: Richard Perry
+
+LGSL itself updated: https://github.com/tltneon/lgsl
+
+Development supported by Allan [Asger] https://wastedgoats.com/
+
+Moved here: https://github.com/Jimako-e107-plugins/lgsl
+
  
 
 ## Birthday plugin for e107
@@ -8,7 +31,7 @@ This is updated version of Birthday menu plugin by Father Barry for e107 v2 vers
 
 Development supported by wrxxy http://www.outlawsracing.com/ 
 
- 
+
 
 ## clanforum 
 ### Forum plugin from version 1.0.4
@@ -37,22 +60,6 @@ Updated and fixed for e107 2.2 and PHP 7
 Development supported by https://tg-esport.dk/
  
 
- 
-## lgsl
-###   Live Game Server List v5.7  by Richard Perry 
-
-Description: LGSL shows live game server info on your website.
-See the screenshot below to see an example setup.
-
-Author credit: Richard Perry
-
-LGSL itself updated: https://github.com/tltneon/lgsl
-
-Development supported by Allan [Asger] https://wastedgoats.com/
-
-## Smartsuup plugin for e107
-
-Smartsupp Live Chat integration plugin for e107 v2 Boostrap CMS
 
 ## onlineinfo
 ### Online advanced info menu by TheMadMonk
@@ -83,4 +90,3 @@ Original source: https://github.com/lonalore/testimonials
 The plugin for the using Yandex Metrica on your e107 site
 
 ![img](https://www.e107sk.com/img/yandex_metrica_for_e107.png)
-
